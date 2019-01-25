@@ -31,6 +31,7 @@ module.exports = {
         path: `${__dirname}/blog`,
       },
     },
+    
     {
       resolve: `gatsby-plugin-google-tagmanager`,
       options: {
